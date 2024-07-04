@@ -11,7 +11,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "SILENT ",
         "required": false
       },
   
@@ -28,12 +28,12 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿"
+        "value": "CYBER-X-3.0v"
       },
       "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Nairobi"
+        "value": "Africa/lagos"
       },
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
